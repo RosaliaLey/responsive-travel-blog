@@ -1,4 +1,4 @@
-# Blog
+# Responsive Blog
 
 ## Table of contents
 
