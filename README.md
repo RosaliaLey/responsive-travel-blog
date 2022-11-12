@@ -12,7 +12,7 @@
 
 ### Links
 
-- [Live Site URL](https://rosalialey.github.io/travel-blog/)
+- [Live Site URL](https://rosalialey.github.io/responsive-travel-blog/)
 
 ### Built with
 
@@ -21,3 +21,4 @@
 - Flexbox
 - CSS Grid
 - JavaScript
+- Responsive Website Design
